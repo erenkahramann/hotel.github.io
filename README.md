@@ -1,1 +1,1 @@
-# hotel.github.io
+https://erenkahramann.github.io/hotel.github.io/
